@@ -6,3 +6,4 @@ dddd
 
 tutorial2をクローン
 1P側更新
+2P側更新です
